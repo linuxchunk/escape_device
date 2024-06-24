@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: DBussy
+Version: 1.3
+Summary: language bindings for libdbus, for Python 3.5 or later
+Home-page: https://github.com/ldo/dbussy
+Author: Lawrence D'Oliveiro
+Author-email: ldo@geek-central.gen.nz
+License: LGPL v2.1+
+Platform: Linux
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Desktop Environment
+Classifier: Topic :: Software Development :: Object Brokering
+
+language bindings for libdbus, for Python 3.5 or later
+
+
